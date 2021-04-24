@@ -1,0 +1,65 @@
+div{
+
+  background-color: #fbe0c4;
+}
+body{
+
+  margin: 0;
+  text-align: center;
+
+
+}
+p{
+font-family: 'Knewave', cursive;
+}
+h1{
+  font-size: 90px;
+font-family: "Sacramento";
+  margin: 0 auto 0 auto;
+}
+.topcontainer{
+  width: auto;
+position: relative;
+padding-top: 200px;
+}
+
+h2{
+  font-family: 'Balsamiq Sans', cursive;
+}
+h3{
+  font-family: 'Original Surfer', cursive;
+}
+.pro{
+
+  text-decoration: underline;
+  background-color: powderblue;
+
+}
+.imagecloud1{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.imagecloud2{
+  position: absolute;
+left: 300px;
+bottom: 300px;
+}
+.myskill{
+  height: 300px;
+  width: 300px;
+
+    display: inline-block;
+}
+.profile{
+height: 300px;
+width: 300px;
+
+  display: inline-block;
+}
+.skills{
+  height: 300px;
+  width: 300px;
+
+    display: inline-block;
+}
